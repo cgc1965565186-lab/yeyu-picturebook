@@ -1,0 +1,329 @@
+﻿book,step_id,sequence_order,step_type,num,mandatory,text
+中文绘本01,中文绘本01.Q01,1,item,1,True,播放
+中文绘本01,中文绘本01.Q02,2,item,2,True,暂停
+中文绘本01,中文绘本01.Q03,3,item,3,True,继续
+中文绘本01,中文绘本01.Q04,4,item,4,True,找到搭了九块积木的画面
+中文绘本01,中文绘本01.Q05,5,item,5,True,他们在搭什么？
+中文绘本01,中文绘本01.Q05.C1,6,click,5,True,[点击] 点击积木城堡 | 暂停并展示城堡信息
+中文绘本01,中文绘本01.Q06,7,item,6,False,高亮“积木城堡”
+中文绘本01,中文绘本01.Q07,8,item,7,False,继续
+中文绘本01,中文绘本01.Q08,9,item,8,False,Pause
+中文绘本01,中文绘本01.Q09,10,item,9,False,找到城堡晃动的画面
+中文绘本01,中文绘本01.Q10,11,item,10,False,为什么会晃？
+中文绘本01,中文绘本01.Q11,12,item,11,False,继续
+中文绘本01,中文绘本01.Q12,13,item,12,False,找到城堡倒塌的画面
+中文绘本01,中文绘本01.Q13,14,item,13,False,What happened?
+中文绘本01,中文绘本01.Q14,15,item,14,False,为什么倒了？
+中文绘本01,中文绘本01.Q15,16,item,15,False,播放
+中文绘本01,中文绘本01.Q16,17,item,16,True,找到两人吵架的画面
+中文绘本01,中文绘本01.Q17,18,item,17,True,Why are they angry?
+中文绘本01,中文绘本01.Q18,19,item,18,True,查找“我又不是故意的”
+中文绘本01,中文绘本01.Q19,20,item,19,False,高亮这句话
+中文绘本01,中文绘本01.Q20,21,item,20,False,找到花花独处的画面
+中文绘本01,中文绘本01.Q21,22,item,21,False,她想念谁？
+中文绘本01,中文绘本01.Q22,23,item,22,False,Play
+中文绘本01,中文绘本01.Q23,24,item,23,False,找到小满在草地的画面
+中文绘本01,中文绘本01.Q24,25,item,24,False,Where is Xiaoman?
+中文绘本01,中文绘本01.Q25,26,item,25,False,她想和谁玩？
+中文绘本01,中文绘本01.Q26,27,item,26,False,继续
+中文绘本01,中文绘本01.Q27,28,item,27,False,找到花花生日的画面
+中文绘本01,中文绘本01.Q28,29,item,28,False,Why is she sad?
+中文绘本01,中文绘本01.Q29,30,item,29,False,查找“生日快乐”
+中文绘本01,中文绘本01.Q30,31,item,30,True,找到小满画卡片的画面
+中文绘本01,中文绘本01.Q30.C1,32,click,30,True,[点击] 点击生日卡片 | 暂停并展示卡片信息
+中文绘本01,中文绘本01.Q31,33,item,31,False,Who made the card?
+中文绘本01,中文绘本01.Q32,34,item,32,False,这张卡片送给谁？
+中文绘本01,中文绘本01.Q33,35,item,33,False,播放
+中文绘本01,中文绘本01.Q34,36,item,34,True,找到小狗叼卡片的画面
+中文绘本01,中文绘本01.Q35,37,item,35,False,What is the dog carrying?
+中文绘本01,中文绘本01.Q35.C1,38,click,35,False,[点击] 点击黄米团 | 暂停并展示小狗信息
+中文绘本01,中文绘本01.Q36,39,item,36,False,它叫什么？
+中文绘本01,中文绘本01.Q37,40,item,37,False,继续
+中文绘本01,中文绘本01.Q38,41,item,38,True,找到两人重逢的画面
+中文绘本01,中文绘本01.Q39,42,item,39,True,What did Xiaoman say?
+中文绘本01,中文绘本01.Q40,43,item,40,False,高亮“生日快乐”
+中文绘本01,中文绘本01.Q41,44,item,41,False,花花开心吗？
+中文绘本01,中文绘本01.Q42,45,item,42,False,继续
+中文绘本01,中文绘本01.Q43,46,item,43,False,找到两人拥抱的画面
+中文绘本01,中文绘本01.Q44,47,item,44,False,Did they make up?
+中文绘本01,中文绘本01.Q45,48,item,45,False,找到结尾的城堡
+中文绘本01,中文绘本01.Q45.C1,49,click,45,False,[点击] 点击积木城堡 | 暂停并展示城堡信息
+中文绘本01,中文绘本01.Q46,50,item,46,False,Is it the same castle?
+中文绘本01,中文绘本01.Q47,51,item,47,False,找到“还不倒”
+中文绘本01,中文绘本01.Q48,52,item,48,False,这句话什么意思？
+中文绘本01,中文绘本01.Q49,53,item,49,False,继续
+中文绘本01,中文绘本01.Q50,54,item,50,True,结束播放
+中文绘本02,中文绘本02.Q01,1,item,1,True,播放
+中文绘本02,中文绘本02.Q02,2,item,2,True,暂停
+中文绘本02,中文绘本02.Q03,3,item,3,True,继续
+中文绘本02,中文绘本02.Q04,4,item,4,False,找到番茄动的画面
+中文绘本02,中文绘本02.Q05,5,item,5,False,什么在动？
+中文绘本02,中文绘本02.Q06,6,item,6,False,高亮“番茄”两个字
+中文绘本02,中文绘本02.Q07,7,item,7,False,Play
+中文绘本02,中文绘本02.Q08,8,item,8,False,Pause
+中文绘本02,中文绘本02.Q09,9,item,9,True,找到黄瓜地
+中文绘本02,中文绘本02.Q09.C1,10,click,9,True,[点击] 点击黄瓜 | 暂停并展示黄瓜信息
+中文绘本02,中文绘本02.Q10,11,item,10,False,黄瓜什么颜色？
+中文绘本02,中文绘本02.Q11,12,item,11,False,Find the tomato.
+中文绘本02,中文绘本02.Q12,13,item,12,False,Where is it?
+中文绘本02,中文绘本02.Q13,14,item,13,False,继续
+中文绘本02,中文绘本02.Q14,15,item,14,True,找到辣椒地
+中文绘本02,中文绘本02.Q14.C1,16,click,14,True,[点击] 点击辣椒 | 暂停并展示辣椒信息
+中文绘本02,中文绘本02.Q15,17,item,15,True,辣椒什么形状？
+中文绘本02,中文绘本02.Q16,18,item,16,True,查找“尖尖的”几个字
+中文绘本02,中文绘本02.Q17,19,item,17,False,这是什么意思？
+中文绘本02,中文绘本02.Q18,20,item,18,False,找到土豆地
+中文绘本02,中文绘本02.Q19,21,item,19,False,番茄藏哪儿？
+中文绘本02,中文绘本02.Q20,22,item,20,False,Play
+中文绘本02,中文绘本02.Q21,23,item,21,False,找到南瓜地
+中文绘本02,中文绘本02.Q22,24,item,22,False,Which is bigger?
+中文绘本02,中文绘本02.Q23,25,item,23,False,高亮“南瓜”两个字
+中文绘本02,中文绘本02.Q24,26,item,24,False,这是什么瓜？
+中文绘本02,中文绘本02.Q25,27,item,25,False,继续
+中文绘本02,中文绘本02.Q26,28,item,26,False,找到豆角地
+中文绘本02,中文绘本02.Q27,29,item,27,False,What looks like noodles?
+中文绘本02,中文绘本02.Q28,30,item,28,False,找到“像面条”几个字
+中文绘本02,中文绘本02.Q29,31,item,29,False,找到番茄堆
+中文绘本02,中文绘本02.Q30,32,item,30,False,哪个是逃跑的？
+中文绘本02,中文绘本02.Q31,33,item,31,False,Pause
+中文绘本02,中文绘本02.Q32,34,item,32,False,Which one moved?
+中文绘本02,中文绘本02.Q33,35,item,33,False,继续
+中文绘本02,中文绘本02.Q34,36,item,34,True,找到番茄跳起的画面
+中文绘本02,中文绘本02.Q35,37,item,35,True,What jumped out?
+中文绘本02,中文绘本02.Q36,38,item,36,True,查找“跳了出来”几个字
+中文绘本02,中文绘本02.Q37,39,item,37,False,是谁在追？
+中文绘本02,中文绘本02.Q38,40,item,38,False,继续
+中文绘本02,中文绘本02.Q39,41,item,39,True,找到刺猬出现的画面
+中文绘本02,中文绘本02.Q39.C1,42,click,39,False,[点击] 点击小刺猬 | 暂停并展示刺猬信息
+中文绘本02,中文绘本02.Q40,43,item,40,False,What animal is this?
+中文绘本02,中文绘本02.Q41,44,item,41,False,番茄为何会跑？
+中文绘本02,中文绘本02.Q42,45,item,42,True,高亮“小刺猬”几个字
+中文绘本02,中文绘本02.Q43,46,item,43,False,Play
+中文绘本02,中文绘本02.Q44,47,item,44,False,找到大家吃蔬菜的画面
+中文绘本02,中文绘本02.Q45,48,item,45,False,What do they eat?
+中文绘本02,中文绘本02.Q46,49,item,46,False,查找“绿黄瓜”几个字
+中文绘本02,中文绘本02.Q47,50,item,47,False,找到茄子动的画面
+中文绘本02,中文绘本02.Q47.C1,51,click,47,False,[点击] 点击茄子 | 暂停并展示茄子信息
+中文绘本02,中文绘本02.Q48,52,item,48,False,What moves now?
+中文绘本02,中文绘本02.Q49,53,item,49,False,高亮“茄子”两个字
+中文绘本02,中文绘本02.Q50,54,item,50,True,结束播放
+中文绘本03,中文绘本03.Q01,1,item,1,True,播放
+中文绘本03,中文绘本03.Q02,2,item,2,True,暂停
+中文绘本03,中文绘本03.Q03,3,item,3,True,继续
+中文绘本03,中文绘本03.Q04,4,item,4,False,找到动物园的画面
+中文绘本03,中文绘本03.Q05,5,item,5,False,Who is running?
+中文绘本03,中文绘本03.Q06,6,item,6,False,查找“别乱跑”几个字
+中文绘本03,中文绘本03.Q07,7,item,7,True,找到兔子妈妈
+中文绘本03,中文绘本03.Q07.C1,8,click,7,True,[点击] 点击兔子 | 暂停并展示兔子信息
+中文绘本03,中文绘本03.Q08,9,item,8,True,What color is it?
+中文绘本03,中文绘本03.Q09,10,item,9,True,为什么选兔子？
+中文绘本03,中文绘本03.Q10,11,item,10,True,高亮“兔子妈妈”几个字
+中文绘本03,中文绘本03.Q11,12,item,11,False,找到大象妈妈
+中文绘本03,中文绘本03.Q11.C1,13,click,11,False,[点击] 点击大象 | 暂停并展示大象信息
+中文绘本03,中文绘本03.Q12,14,item,12,False,鼻子有什么特点？
+中文绘本03,中文绘本03.Q13,15,item,13,False,Why an elephant?
+中文绘本03,中文绘本03.Q14,16,item,14,False,继续
+中文绘本03,中文绘本03.Q15,17,item,15,False,找到大象洗澡的画面
+中文绘本03,中文绘本03.Q16,18,item,16,False,Why not her?
+中文绘本03,中文绘本03.Q17,19,item,17,False,Play
+中文绘本03,中文绘本03.Q18,20,item,18,False,找到河马妈妈
+中文绘本03,中文绘本03.Q18.C1,21,click,18,False,[点击] 点击河马 | 暂停并展示河马信息
+中文绘本03,中文绘本03.Q19,22,item,19,False,河马嘴巴大吗？
+中文绘本03,中文绘本03.Q20,23,item,20,False,Why is she cold?
+中文绘本03,中文绘本03.Q21,24,item,21,False,高亮“河马妈妈”几个字
+中文绘本03,中文绘本03.Q22,25,item,22,False,找到大熊妈妈
+中文绘本03,中文绘本03.Q23,26,item,23,False,What is she doing?
+中文绘本03,中文绘本03.Q24,27,item,24,False,为什么不选大熊？
+中文绘本03,中文绘本03.Q25,28,item,25,False,查找“天天睡觉”几个字
+中文绘本03,中文绘本03.Q26,29,item,26,True,找到企鹅妈妈
+中文绘本03,中文绘本03.Q26.C1,30,click,26,True,[点击] 点击企鹅 | 暂停并展示企鹅信息
+中文绘本03,中文绘本03.Q27,31,item,27,True,What color is it?
+中文绘本03,中文绘本03.Q28,32,item,28,True,企鹅爱吃什么？
+中文绘本03,中文绘本03.Q29,33,item,29,True,Why not a penguin?
+中文绘本03,中文绘本03.Q30,34,item,30,False,继续
+中文绘本03,中文绘本03.Q31,35,item,31,False,找到猴子妈妈
+中文绘本03,中文绘本03.Q32,36,item,32,False,What does she eat?
+中文绘本03,中文绘本03.Q33,37,item,33,False,小满头发怎么了？
+中文绘本03,中文绘本03.Q34,38,item,34,False,查找“桃子”两个字
+中文绘本03,中文绘本03.Q35,39,item,35,False,找到天鹅妈妈
+中文绘本03,中文绘本03.Q35.C1,40,click,35,False,[点击] 点击天鹅 | 暂停并展示天鹅信息
+中文绘本03,中文绘本03.Q36,41,item,36,False,What can she do?
+中文绘本03,中文绘本03.Q37,42,item,37,False,为什么不选天鹅？
+中文绘本03,中文绘本03.Q38,43,item,38,False,高亮“亲亲”两个字
+中文绘本03,中文绘本03.Q39,44,item,39,False,找到所有动物妈妈
+中文绘本03,中文绘本03.Q40,45,item,40,False,Who can kiss her?
+中文绘本03,中文绘本03.Q41,46,item,41,False,“亲亲”什么意思？
+中文绘本03,中文绘本03.Q42,47,item,42,False,继续
+中文绘本03,中文绘本03.Q43,48,item,43,False,找到真正的妈妈
+中文绘本03,中文绘本03.Q44,49,item,44,False,What can she do?
+中文绘本03,中文绘本03.Q45,50,item,45,False,妈妈会做什么？
+中文绘本03,中文绘本03.Q46,51,item,46,False,查找“最好的妈妈”几个字
+中文绘本03,中文绘本03.Q47,52,item,47,True,找到最后的拥抱
+中文绘本03,中文绘本03.Q48,53,item,48,False,Who is the best mom?
+中文绘本03,中文绘本03.Q49,54,item,49,False,Why does she choose her?
+中文绘本03,中文绘本03.Q50,55,item,50,True,结束播放
+英文绘本01,英文绘本01.Q01,1,item,1,True,播放
+英文绘本01,英文绘本01.Q02,2,item,2,True,暂停
+英文绘本01,英文绘本01.Q03,3,item,3,True,继续
+英文绘本01,英文绘本01.Q04,4,item,4,True,找到电影海报的画面
+英文绘本01,英文绘本01.Q04.C1,5,click,4,True,[点击] 点击电影海报 | 暂停并展示电影信息
+英文绘本01,英文绘本01.Q05,6,item,5,False,Which film?
+英文绘本01,英文绘本01.Q06,7,item,6,True,高亮文字“Kung Fu”
+英文绘本01,英文绘本01.Q07,8,item,7,False,找到歌舞片的画面
+英文绘本01,英文绘本01.Q08,9,item,8,False,Why no musicals?
+英文绘本01,英文绘本01.Q09,10,item,9,False,继续
+英文绘本01,英文绘本01.Q10,11,item,10,False,找到害怕的画面
+英文绘本01,英文绘本01.Q11,12,item,11,False,Who is scared?
+英文绘本01,英文绘本01.Q12,13,item,12,False,找到机器人的画面
+英文绘本01,英文绘本01.Q12.C1,14,click,12,False,[点击] 点击机器人 | 暂停并展示机器人信息
+英文绘本01,英文绘本01.Q13,15,item,13,False,What is it?
+英文绘本01,英文绘本01.Q14,16,item,14,False,Pause
+英文绘本01,英文绘本01.Q15,17,item,15,False,继续
+英文绘本01,英文绘本01.Q16,18,item,16,False,找到男孩的画面
+英文绘本01,英文绘本01.Q17,19,item,17,False,Is he braver now?
+英文绘本01,英文绘本01.Q18,20,item,18,False,查找文字“braver”
+英文绘本01,英文绘本01.Q19,21,item,19,False,找到爸爸的画面
+英文绘本01,英文绘本01.Q20,22,item,20,False,Who is he?
+英文绘本01,英文绘本01.Q21,23,item,21,True,找到街机的画面
+英文绘本01,英文绘本01.Q21.C1,24,click,21,True,[点击] 点击游戏机 | 暂停并展示游戏机信息
+英文绘本01,英文绘本01.Q22,25,item,22,False,What's the score?
+英文绘本01,英文绘本01.Q23,26,item,23,False,继续
+英文绘本01,英文绘本01.Q24,27,item,24,True,找到零食区的画面
+英文绘本01,英文绘本01.Q25,28,item,25,True,What food is there?
+英文绘本01,英文绘本01.Q26,29,item,26,True,查找文字“POPCORN”
+英文绘本01,英文绘本01.Q27,30,item,27,False,找到爆米花的画面
+英文绘本01,英文绘本01.Q27.C1,31,click,27,False,[点击] 点击爆米花 | 暂停并展示爆米花信息
+英文绘本01,英文绘本01.Q28,32,item,28,False,What is this?
+英文绘本01,英文绘本01.Q29,33,item,29,False,高亮文字“POPCORN”
+英文绘本01,英文绘本01.Q30,34,item,30,False,Who buys snacks?
+英文绘本01,英文绘本01.Q31,35,item,31,False,找到零钱的画面
+英文绘本01,英文绘本01.Q32,36,item,32,False,Who saved it?
+英文绘本01,英文绘本01.Q33,37,item,33,False,Why buy snacks?
+英文绘本01,英文绘本01.Q34,38,item,34,True,找到观众入座的画面
+英文绘本01,英文绘本01.Q35,39,item,35,False,找到灯光变暗的画面
+英文绘本01,英文绘本01.Q36,40,item,36,False,暂停
+英文绘本01,英文绘本01.Q37,41,item,37,False,继续
+英文绘本01,英文绘本01.Q38,42,item,38,True,找到吃零食的画面
+英文绘本01,英文绘本01.Q39,43,item,39,False,Who is eating?
+英文绘本01,英文绘本01.Q40,44,item,40,False,找到会说话的汽车画面
+英文绘本01,英文绘本01.Q40.C1,45,click,40,False,[点击] 点击汽车 | 暂停并展示汽车信息
+英文绘本01,英文绘本01.Q41,46,item,41,False,What can it do?
+英文绘本01,英文绘本01.Q42,47,item,42,False,查找文字“KARATE”
+英文绘本01,英文绘本01.Q43,48,item,43,False,What sport is it?
+英文绘本01,英文绘本01.Q44,49,item,44,False,高亮文字“KARATE”
+英文绘本01,英文绘本01.Q45,50,item,45,True,找到晚餐的画面
+英文绘本01,英文绘本01.Q46,51,item,46,False,What do they discuss?
+英文绘本01,英文绘本01.Q47,52,item,47,False,找到机器人的画面
+英文绘本01,英文绘本01.Q48,53,item,48,False,单词“snore”是什么意思？
+英文绘本01,英文绘本01.Q49,54,item,49,False,Is Dad awake?
+英文绘本01,英文绘本01.Q50,55,item,50,True,结束播放
+英文绘本02,英文绘本02.Q01,1,item,1,True,播放
+英文绘本02,英文绘本02.Q02,2,item,2,True,暂停
+英文绘本02,英文绘本02.Q03,3,item,3,True,继续
+英文绘本02,英文绘本02.Q04,4,item,4,False,找到蝙蝠装扮的画面
+英文绘本02,英文绘本02.Q04.C1,5,click,4,False,[点击] 点击蝙蝠翅膀 | 暂停并展示翅膀信息
+英文绘本02,英文绘本02.Q05,6,item,5,False,Who is Lele?
+英文绘本02,英文绘本02.Q06,7,item,6,False,高亮文字“bats”
+英文绘本02,英文绘本02.Q07,8,item,7,True,找到熊猫的画面
+英文绘本02,英文绘本02.Q07.C1,9,click,7,True,[点击] 点击熊猫右眼 | 暂停并展示熊猫信息
+英文绘本02,英文绘本02.Q08,10,item,8,False,Who is Kuan?
+英文绘本02,英文绘本02.Q09,11,item,9,False,Why bats?
+英文绘本02,英文绘本02.Q10,12,item,10,True,继续
+英文绘本02,英文绘本02.Q11,13,item,11,False,找到蝙蝠飞行的画面
+英文绘本02,英文绘本02.Q12,14,item,12,False,Where do bats live?
+英文绘本02,英文绘本02.Q13,15,item,13,True,查找文字“pandas”
+英文绘本02,英文绘本02.Q14,16,item,14,False,继续
+英文绘本02,英文绘本02.Q15,17,item,15,True,找到熊猫躺下的画面
+英文绘本02,英文绘本02.Q16,18,item,16,True,Why so slow?
+英文绘本02,英文绘本02.Q17,19,item,17,False,How are they different?
+英文绘本02,英文绘本02.Q18,20,item,18,False,Play
+英文绘本02,英文绘本02.Q19,21,item,19,True,找到骆驼的画面
+英文绘本02,英文绘本02.Q19.C1,22,click,19,True,[点击] 点击骆驼身上的小老鼠 | 暂停并展示小老鼠信息
+英文绘本02,英文绘本02.Q20,23,item,20,False,Who is Mike?
+英文绘本02,英文绘本02.Q21,24,item,21,False,骆驼住哪里？
+英文绘本02,英文绘本02.Q22,25,item,22,False,Why store water?
+英文绘本02,英文绘本02.Q23,26,item,23,False,高亮文字“camels”
+英文绘本02,英文绘本02.Q24,27,item,24,False,找到喝水的画面
+英文绘本02,英文绘本02.Q25,28,item,25,False,What is he drinking?
+英文绘本02,英文绘本02.Q26,29,item,26,False,Play
+英文绘本02,英文绘本02.Q27,30,item,27,False,找到章鱼的画面
+英文绘本02,英文绘本02.Q27.C1,31,click,27,False,[点击] 点击章鱼眼睛 | 暂停并展示章鱼信息
+英文绘本02,英文绘本02.Q28,32,item,28,True,Who is Andy?
+英文绘本02,英文绘本02.Q29,33,item,29,True,Where does it live?
+英文绘本02,英文绘本02.Q30,34,item,30,False,为什么不喜欢？
+英文绘本02,英文绘本02.Q31,35,item,31,False,查找文字“octopus”
+英文绘本02,英文绘本02.Q32,36,item,32,False,找到章鱼伸手的画面
+英文绘本02,英文绘本02.Q33,37,item,33,False,How many arms?
+英文绘本02,英文绘本02.Q34,38,item,34,False,找到青蛙的画面
+英文绘本02,英文绘本02.Q34.C1,39,click,34,False,[点击] 点击青蛙 | 暂停并展示青蛙信息
+英文绘本02,英文绘本02.Q35,40,item,35,False,Why frogs?
+英文绘本02,英文绘本02.Q36,41,item,36,False,青蛙住哪里？
+英文绘本02,英文绘本02.Q37,42,item,37,False,单词“frog”是什么意思？
+英文绘本02,英文绘本02.Q38,43,item,38,True,找到蝙蝠倒挂的画面
+英文绘本02,英文绘本02.Q39,44,item,39,False,What changed?
+英文绘本02,英文绘本02.Q40,45,item,40,False,继续
+英文绘本02,英文绘本02.Q41,46,item,41,False,找到蝴蝶的画面
+英文绘本02,英文绘本02.Q42,47,item,42,False,Who is Jenny?
+英文绘本02,英文绘本02.Q43,48,item,43,False,Why butterflies?
+英文绘本02,英文绘本02.Q44,49,item,44,False,Can she fly?
+英文绘本02,英文绘本02.Q45,50,item,45,False,高亮文字“butterflies”
+英文绘本02,英文绘本02.Q46,51,item,46,False,找到恐龙装扮的画面
+英文绘本02,英文绘本02.Q47,52,item,47,False,Why scary?
+英文绘本02,英文绘本02.Q48,53,item,48,False,Compare pandas and dinosaurs.
+英文绘本02,英文绘本02.Q49,54,item,49,False,查找文字“dinosaurs”
+英文绘本02,英文绘本02.Q50,55,item,50,True,结束播放
+英文绘本03,英文绘本03.Q01,1,item,1,True,播放
+英文绘本03,英文绘本03.Q02,2,item,2,True,暂停
+英文绘本03,英文绘本03.Q03,3,item,3,True,继续
+英文绘本03,英文绘本03.Q04,4,item,4,False,找到红丝带的画面
+英文绘本03,英文绘本03.Q04.C1,5,click,4,False,[点击] 点击红丝带 | 暂停并展示丝带信息
+英文绘本03,英文绘本03.Q05,6,item,5,False,What is it?
+英文绘本03,英文绘本03.Q06,7,item,6,False,高亮文字“world”
+英文绘本03,英文绘本03.Q07,8,item,7,False,找到彩色丝带的画面
+英文绘本03,英文绘本03.Q08,9,item,8,False,Why change colors?
+英文绘本03,英文绘本03.Q09,10,item,9,False,继续
+英文绘本03,英文绘本03.Q10,11,item,10,True,找到油污鸭子的画面
+英文绘本03,英文绘本03.Q10.C1,12,click,10,True,[点击] 点击鸭子头部 | 暂停并展示鸭子信息
+英文绘本03,英文绘本03.Q11,13,item,11,False,What happened?
+英文绘本03,英文绘本03.Q12,14,item,12,False,查找文字“oil”
+英文绘本03,英文绘本03.Q13,15,item,13,False,继续
+英文绘本03,英文绘本03.Q14,16,item,14,True,找到旧书的画面
+英文绘本03,英文绘本03.Q15,17,item,15,True,When do you like to recycle?
+英文绘本03,英文绘本03.Q16,18,item,16,True,单词“recycle”是什么意思？
+英文绘本03,英文绘本03.Q17,19,item,17,False,找到绿色汽车的画面
+英文绘本03,英文绘本03.Q18,20,item,18,False,What car I never drive?
+英文绘本03,英文绘本03.Q19,21,item,19,False,多久之后我能开车？
+英文绘本03,英文绘本03.Q20,22,item,20,False,继续
+英文绘本03,英文绘本03.Q21,23,item,21,False,找到发烧地球的画面
+英文绘本03,英文绘本03.Q21.C1,24,click,21,False,[点击] 点击地球 | 暂停并展示地球信息
+英文绘本03,英文绘本03.Q22,25,item,22,False,Why is it cold?
+英文绘本03,英文绘本03.Q23,26,item,23,False,高亮文字“global warming”
+英文绘本03,英文绘本03.Q24,27,item,24,False,继续
+英文绘本03,英文绘本03.Q25,28,item,25,False,找到环保视频的画面
+英文绘本03,英文绘本03.Q26,29,item,26,False,What does he think?
+英文绘本03,英文绘本03.Q27,30,item,27,True,找到户外小鸟的画面
+英文绘本03,英文绘本03.Q28,31,item,28,True,Why go outside?
+英文绘本03,英文绘本03.Q29,32,item,29,False,继续
+英文绘本03,英文绘本03.Q30,33,item,30,False,找到男孩喂鸟的画面
+英文绘本03,英文绘本03.Q31,34,item,31,False,What's in his head?
+英文绘本03,英文绘本03.Q32,35,item,32,False,查找文字“outside”
+英文绘本03,英文绘本03.Q33,36,item,33,True,找到河流污染的画面
+英文绘本03,英文绘本03.Q33.C1,37,click,33,True,[点击] 点击河流 | 暂停并展示河流信息
+英文绘本03,英文绘本03.Q34,38,item,34,False,What is dumped?
+英文绘本03,英文绘本03.Q35,39,item,35,False,Why is it harmful?
+英文绘本03,英文绘本03.Q36,40,item,36,False,继续
+英文绘本03,英文绘本03.Q37,41,item,37,False,找到太空垃圾的画面
+英文绘本03,英文绘本03.Q38,42,item,38,False,Is it a good idea?
+英文绘本03,英文绘本03.Q39,43,item,39,False,单词“pollution”是什么意思？
+英文绘本03,英文绘本03.Q40,44,item,40,False,继续
+英文绘本03,英文绘本03.Q41,45,item,41,True,找到踢垃圾桶的画面
+英文绘本03,英文绘本03.Q41.C1,46,click,41,True,[点击] 点击垃圾桶 | 暂停并展示垃圾桶信息
+英文绘本03,英文绘本03.Q42,47,item,42,False,What is he doing?
+英文绘本03,英文绘本03.Q43,48,item,43,False,高亮文字“garbage”
+英文绘本03,英文绘本03.Q44,49,item,44,False,找到朋友们的画面
+英文绘本03,英文绘本03.Q45,50,item,45,False,Can one person save it?
+英文绘本03,英文绘本03.Q46,51,item,46,False,找到男孩出门的画面
+英文绘本03,英文绘本03.Q47,52,item,47,False,Why go outside?
+英文绘本03,英文绘本03.Q48,53,item,48,False,查找文字“save”
+英文绘本03,英文绘本03.Q49,54,item,49,False,找到结尾地球的画面
+英文绘本03,英文绘本03.Q50,55,item,50,True,结束播放

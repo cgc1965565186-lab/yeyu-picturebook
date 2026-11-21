@@ -1,0 +1,55 @@
+01. 播放 （必选）
+02. 暂停 （必选）
+03. 继续 （必选）
+04. 找到蝙蝠装扮的画面
+    [点击] 点击蝙蝠翅膀 | 暂停并展示翅膀信息
+05. Who is Lele?
+06. 高亮文字“bats”
+07. 找到熊猫的画面 （必选）
+    [点击] 点击熊猫右眼 | 暂停并展示熊猫信息 （必选）
+08. Who is Kuan? 
+09. Why bats?
+10. 继续 （必选）
+11. 找到蝙蝠飞行的画面
+12. Where do bats live?
+13. 查找文字“pandas” （必选）
+14. 继续
+15. 找到熊猫躺下的画面 （必选）
+16. Why so slow? （必选）
+17. How are they different?
+18. Play
+19. 找到骆驼的画面 （必选）
+    [点击] 点击骆驼身上的小老鼠 | 暂停并展示小老鼠信息 （必选）
+20. Who is Mike?
+21. 骆驼住哪里？
+22. Why store water?
+23. 高亮文字“camels”
+24. 找到喝水的画面
+25. What is he drinking?
+26. Play
+27. 找到章鱼的画面
+    [点击] 点击章鱼眼睛 | 暂停并展示章鱼信息
+28. Who is Andy? （必选）
+29. Where does it live? （必选）
+30. 为什么不喜欢？
+31. 查找文字“octopus”
+32. 找到章鱼伸手的画面
+33. How many arms?
+34. 找到青蛙的画面
+    [点击] 点击青蛙 | 暂停并展示青蛙信息
+35. Why frogs?
+36. 青蛙住哪里？
+37. 单词“frog”是什么意思？
+38. 找到蝙蝠倒挂的画面 （必选）
+39. What changed?
+40. 继续
+41. 找到蝴蝶的画面
+42. Who is Jenny?
+43. Why butterflies?
+44. Can she fly?
+45. 高亮文字“butterflies”
+46. 找到恐龙装扮的画面 
+47. Why scary?
+48. Compare pandas and dinosaurs.
+49. 查找文字“dinosaurs”
+50. 结束播放 （必选）

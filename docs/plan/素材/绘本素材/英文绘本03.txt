@@ -1,0 +1,55 @@
+01. 播放 （必选）
+02. 暂停 （必选）
+03. 继续 （必选）
+04. 找到红丝带的画面
+    [点击] 点击红丝带 | 暂停并展示丝带信息
+05. What is it?
+06. 高亮文字“world”
+07. 找到彩色丝带的画面
+08. Why change colors?
+09. 继续
+10. 找到油污鸭子的画面 （必选） 
+    [点击] 点击鸭子头部 | 暂停并展示鸭子信息 （必选）
+11. What happened?
+12. 查找文字“oil”
+13. 继续
+14. 找到旧书的画面 （必选）
+15. When do you like to recycle? （必选）
+16. 单词“recycle”是什么意思？ （必选）
+17. 找到绿色汽车的画面
+18. What car I never drive?
+19. 多久之后我能开车？
+20. 继续
+21. 找到发烧地球的画面
+    [点击] 点击地球 | 暂停并展示地球信息
+22. Why is it cold?
+23. 高亮文字“global warming”
+24. 继续
+25. 找到环保视频的画面 
+26. What does he think?
+27. 找到户外小鸟的画面 （必选）
+28. Why go outside? （必选）
+29. 继续
+30. 找到男孩喂鸟的画面
+31. What's in his head?
+32. 查找文字“outside”
+33. 找到河流污染的画面 （必选） 
+    [点击] 点击河流 | 暂停并展示河流信息 （必选）
+34. What is dumped?
+35. Why is it harmful?
+36. 继续
+37. 找到太空垃圾的画面 
+38. Is it a good idea?
+39. 单词“pollution”是什么意思？ 
+40. 继续
+41. 找到踢垃圾桶的画面 （必选）
+    [点击] 点击垃圾桶 | 暂停并展示垃圾桶信息 （必选）
+42. What is he doing?
+43. 高亮文字“garbage”
+44. 找到朋友们的画面
+45. Can one person save it?
+46. 找到男孩出门的画面
+47. Why go outside?
+48. 查找文字“save”
+49. 找到结尾地球的画面
+50. 结束播放 （必选）
